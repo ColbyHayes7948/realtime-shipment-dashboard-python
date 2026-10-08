@@ -1,0 +1,1 @@
+"""Logistics dashboard example package."""
